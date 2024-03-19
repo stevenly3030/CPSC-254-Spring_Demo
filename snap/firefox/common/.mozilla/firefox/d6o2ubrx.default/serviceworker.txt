@@ -1,0 +1,13 @@
+9
+
+https://mail.yahoo.com/
+https://mail.yahoo.com/desktop_sw.js
+true
+{20edc996-bbb8-45f7-82ae-725c2c58cf10}
+0
+1662947980259050
+1662947980405493
+1662947979421490
+0
+true
+#
